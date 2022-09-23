@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: AD18795
+Build-Jdk: 17.0.3
+Main-Class: com.employee.App
+Created-By: Maven Integration for Eclipse
+
